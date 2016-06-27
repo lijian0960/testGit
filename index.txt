@@ -2,3 +2,5 @@ hello world;
 hello everyone;
 
 初来咋到，请多多关照
+
+Git has a mutable index called stage.
